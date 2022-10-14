@@ -1,0 +1,21 @@
+{
+  "name": "vue-tsc-test",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-vue2": "^2.0.0",
+    "vite": "^3.1.8",
+    "vue-tsc": "1.0.6",
+    "typescript": "*"
+  },
+  "dependencies": {
+    "vue": "~2.7.0"
+  }
+}
